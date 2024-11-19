@@ -1,4 +1,4 @@
-# uni_but_fme_VBC
+# VBC – Bio-inspired computing
 
 ## Objective of the course – aims of the course unit:
 Goal of the course is to introduce students to modern tools of biology inspired computing and options and appropriate usage for solving engineering tasks.
